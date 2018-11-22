@@ -67,4 +67,4 @@ Visualize and analyze skew of resultant return distributions on post-upgrade and
 ## Human Centered Design Considerations
 As stated above, since data itself cannot be shown, we ensure that necessary documentation is provided to fully reproduce the project using one’s own (different) API access key. 
 
-This project is not a question in ethics or bias in data. It is a project involving statistical analysis of “formal” data, that is data that is generated from purely objectivity. I.e. there is no question that AAPL closed at XXX.XX price on some date, nor no question that Goldman reiterated AAPL’s price target on 11/20/18. 
+This project is not a question in ethics or bias in data. It is a project involving statistical analysis and reprodibility of anlaysis of “formal” data, that is data that is generated from purely objectivity. I.e. there is no question that AAPL closed at XXX.XX price on some date, nor no question that Goldman reiterated AAPL’s price target on 11/20/18. 
