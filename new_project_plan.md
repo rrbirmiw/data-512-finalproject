@@ -63,3 +63,17 @@ The plan insofar is to produce the following deliverables:
   - Qualitiatively: Via visualization, thorough analysis and textual documentation, etc. 
 3. Source code used to produce all results and analyses
 4. Concerns and considerations/assumptions used in the analysis 
+
+# Human-Centered Considerations
+
+This project asks to seek a qualitative and potentially quantitative relationship between two domains: UN voting records (w.r.t pro-US resolutions) and US foreign aid data. However, seeking such a *A implies B* logic is understandibly short-sighted. There can be a myriad of other factors that influence voting alignment: cultural repression, socioeconomic conditions, historical significance, human suffering, alliances, post-war rebuilding efforts, etc. As a result, any conclusion made by the analysis of this project would result from one "angle"; furthermore that conclusion(s) maybe prone to biases in the data, such as those population and external biases: a vote of yay/nay/abstain can have a much richer and more nuanced reasoning than our quid-pro-quo investigation. Certainly, it is impossible to control for all these external factors in the study, but some efforts can be made. Although not fully determined yet, some ideas include: 
+* controlling for NATO/Soviet bloc alliances 
+* controlling and clustering by/for GDP and GDP-per-capita (as proxy of socioeconomic health)
+* controlling for resolution "type" -- is it dealing with human rights? conflict? (See ISSUE CODES above)
+* controlling for time period -- for example voting preferences ca. post-WWII Marshall Plan-era cannot be compared to foreign policy during U.S. policy of containment roughly ~30 years later. Those worldviews are 180. 
+
+# References
+1. https://www.heritage.org/global-politics/report/thirty-years-voting-the-un-general-assembly-the-us-nearly-always-the
+2. https://www.cgdev.org/publication/linking-us-foreign-aid-un-votes-what-are-implications
+3. https://foreignpolicy.com/2018/03/15/haley-vote-with-u-s-at-u-n-or-well-cut-your-aid/
+4. https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
