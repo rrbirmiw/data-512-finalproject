@@ -1,5 +1,16 @@
 
+# Introduction
 
+The linkage between United States foreign aid and United Nations voting alignment has been a longstanding issue. Most recently, the issue has reignited with the Trump Administration in 2018 pledging to severely cut -- punish -- recipient nations of US foreign aid if said countries do not back US-preferred resolutions at the United Nations: 
+
+
+- "All of these nations that take our money and then they vote against us at the Security Council or they vote against us…at the Assembly…. Well, we’re watching those votes. Let them vote against us; we’ll save a lot.” (President Donald J. Trump. Dec 20, 2017). (https://www.cgdev.org/publication/linking-us-foreign-aid-un-votes-what-are-implications)
+- "President Trump and I are pushing to draw a closer connection between US foreign aid and how countries vote at the UN.” – US Ambassador to the UN Nikki Haley. 3/5/2018). https://www.cgdev.org/publication/linking-us-foreign-aid-un-votes-what-are-implications
+
+Yet this quid-pro-quo issue has existed even prior to the current administration's hawkish foreign policy. For example, a research report published in the Heritage Foundation: *Thirty Years of Voting in the U.N. General Assembly: The U.S. Is Nearly Always in the Minority* detail how US Congress has asked for decades concerning the potential *disparity* between aid and voting alignment -- that surprisingly nations with largest US aid have orthogonal voting alignment to US preferences. This publication comes to the conclusion that: "Indeed, over the past 10 UNGA sessions, on average, 81.9 percent of all development assistance recipients (177 countries in all) voted against the U.S. in a majority of the overall non-consensus votes, and 68.9 percent voted against the U.S. in a majority of the important non-consensus votes."
+https://www.heritage.org/global-politics/report/thirty-years-voting-the-un-general-assembly-the-us-nearly-always-the
+
+The question, therefore, is what is the true relationship between US foreign aid policy and voting alignment, if a clear pattern even exists. 
 
 # Research Question
 What is the relationship between U.S. foreign aid policy and the U.N. voting attitudes of those recipient nations? Do those recipient nations voting preferences align with those favored by the United States? 
