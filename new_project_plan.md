@@ -50,3 +50,5 @@ The plan insofar is to produce the following deliverables:
 2. An answer to the research question, both quantitatively and qualitiatively: 
   - Quantitatively: potential measures might include a correlation coefficient, a statistical model of *voting_alignment* vs. *foreign aid* and other covariates, a probabilistic (logistic) model of likelihood of US voting alignment, etc. 
   - Qualitiatively: Via visualization, thorough analysis and textual documentation, etc. 
+3. Source code used to produce all results and analyses
+4. Concerns and considerations/assumptions used in the analysis 
