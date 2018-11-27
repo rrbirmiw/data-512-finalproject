@@ -23,11 +23,13 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
 Required Citations: 
 - Inter-university Consortium for Political and Social Research. United Nations Roll Call Data, 1946-1985. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 1992-02-16. https://doi.org/10.3886/ICPSR05512.v1
 - Erik Voeten "Data and Analyses of Voting in the UN General Assembly" Routledge Handbook of International Organization, edited by Bob Reinalda (published May 27, 2013). Available at SSRN: http://ssrn.com/abstract=2111149
-*Second citation made at the request indicated by author at < >
+*Second citation made at the request indicated by author at the **Codebook** found at the above link
 
 ### Vote Records Data
--  
-
+-  rcid: resolution ID, can be used as foreign key to other datasets 
+- vote_type: i.e. yes/no/abstain/etc
+- ccode: country code
+- session: UNGA (United Nations General Assembly) session number (1-99)
 
 ### Vote Description Data
 - rcid: resolution ID, can be used as foreign key to other datasets 
@@ -47,7 +49,7 @@ Required Citations:
 https://explorer.usaid.gov/about.html
 
 ## C. Other Data Sources
-Other data sources may be used and/or merged as deemed fit to rigorously probe the stated research question. Potential "other" data sources can include, but not limited to, geographic data, population demographics, data regarding political history of countries/political tilt and potential inherent "bias" against the United States (i.e. Soviet bloc ca. 20th century). 
+Other data sources may be used and/or merged as deemed fit to rigorously probe the stated research question. Potential "other" data sources can include, but not limited to, geographic data, population demographics, data regarding political history of countries/political tilt and potential inherent "bias" against the United States (i.e. Soviet bloc ca. 20th century). See *Human-Centered Considerations below* 
 
 
 
@@ -77,3 +79,5 @@ This project asks to seek a qualitative and potentially quantitative relationshi
 2. https://www.cgdev.org/publication/linking-us-foreign-aid-un-votes-what-are-implications
 3. https://foreignpolicy.com/2018/03/15/haley-vote-with-u-s-at-u-n-or-well-cut-your-aid/
 4. https://dataverse.harvard.edu/dataset.xhtml?persistentId=hdl:1902.1/12379
+5. Assignment details: https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)/Assignments#A4:_Final_project_plan
+6. Please see *Codebook* found in this repository, provided by authors of the UN data
