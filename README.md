@@ -5,14 +5,14 @@ Name: Rahul Birmiwal
 
 Date: 12/9/18
 
+The assignment comes from Jonathan T. Morgan, Os Keyes. University of Washington. DATA 512: Human-Centered Data Science. Autumn Quarter 2018. Whose description comes from https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)/Assignments#A6:_Final_project_report
+
 ## Goal and Research Question
 This project seeks to use human-centered data science methods, exploratory data analysis armed with an "interpretivist" mindset, to find relationship(s) between US foreign aid dispersment and increased pro-US alignment in voting behavior in the United States General Assmebly. Furthermore, we seek to determine if a causal relationship exists: does an "impulse" of foreign aid induce increased alignment in the near term by the recipient nation of that aid influx? 
 
 ## Results
 
 The project and analysis dives through various structural models of the above research quesiton. After conditioning on income and geographic region as a "best-suitable" proxy for the infinite possibilities of socio-geopolitical-historical-ethnographic externalities/hidden biases in the relationships between foreign aid and alignment (i.e. the wars in Afghanistan and Iraq are intrinsically correlated with mountains of aid)...we see that aid does induce alignment. 
-
-The assignment description comes from https://wiki.communitydata.cc/Human_Centered_Data_Science_(Fall_2018)/Assignments#A2:_Data_curation
 
 ## Data sources used
 
@@ -52,6 +52,11 @@ Required Citations:
 
 US foreign aid data comes from the US Department for Foreign Aid @ USAID.gov. https://explorer.usaid.gov/about.html#tab-about. The data set lists all individual foreign aid transactions 1946-2017. The data can be downloaded from: https://explorer.usaid.gov/data.html under "complete dataset." 
 
+Columns of interest in this dataset's schema are: 
+- income_group_name: To which income-group the US Foreign Aid/State Department offices classify that country 
+- region_group: Likewise for geographic region 
+- constant_amount: Amount in constant (inflation-adjusted) US dollars of the aid in that transaction to that country 
+
 ## Licenses 
 - The UN Voting data is released under a CC0 "Public Domain Dedication" license. It is expected, furthermore, that all data used from Harvard Dataverse and child sites be subject to the following community norms found at https://dataverse.org/best-practices/dataverse-community-norms.
 - USAID.gov data is released under a "Partner Data License" (https://www.usaid.gov/data/license-data-created-usaid-partners) which "which include the right to reproduce, publish, or otherwise use the data, through a Creative Commons Attribution-No Derivatives 4.0 International License"
@@ -68,14 +73,15 @@ Following Python library dependencies are required to run the notebook:
 - pandas: https://pandas.pydata.org
 - scikit-learn: http://scikit-learn.org/stable/
 - seaborn (for visualization): https://seaborn.pydata.org
+- scipy: https://www.scipy.org
+Please ensure all dependencies installed in the working environment before running the notebook. 
 
 ## Files Created
-None*
-             
+A jupyter notebook `data512-finalproject.ipynb`             
 
 ## Code
 
-Code and Python project contained in the jupyter notebook `hcds-512-a2.ipynb`
+Code and Python project contained in the jupyter notebook `data512-finalproject.ipynb`      
 
 ## Visualizations Created
 Various visualizations are used in the Jupyter notebook along the way as part of the exploratory data analysis 
